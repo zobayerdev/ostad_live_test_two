@@ -1,4 +1,4 @@
-package com.example.flutter_ostad_live_test
+package com.example.ostad_livetest_two
 
 import io.flutter.embedding.android.FlutterActivity
 

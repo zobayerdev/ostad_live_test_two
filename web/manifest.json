@@ -1,6 +1,6 @@
 {
-    "name": "flutter_ostad_live_test",
-    "short_name": "flutter_ostad_live_test",
+    "name": "ostad_livetest_two",
+    "short_name": "ostad_livetest_two",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
