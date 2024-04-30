@@ -1,16 +1,4 @@
-# ostad_livetest_two
+## Flutter Ostad Live Test
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zobayerdev/ostad_live_test_two/assets/74914169/65f47147-63fd-4569-99ff-35e1099cb597" width=25% height=25%><br>
+<img src="https://github.com/zobayerdev/ostad_live_test_two/assets/74914169/1cc0cff1-523e-4356-be0a-1ed5e6fd4f63" width=45% height=45%>
